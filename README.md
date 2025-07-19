@@ -1,5 +1,8 @@
-# 💫 About Me:
-Hi, I'm Sadhasivam — a passionate developer, problem solver, and lifelong learner. I enjoy building tools, automating workflows, and exploring new technologies.<br><br>🚀 Tech Stack<br><br>Languages: JavaScript / TypeScript, Python, C++<br>Frontend: React, Next.js, Tailwind CSS, Bootstrap<br>Backend: Node.js, Express, REST API's<br>DevOps:  GitHub Actions, Vercel, Netlify<br>Databases: PostgreSQL, MongoDB, MySQL, SQLite<br><br>🔭 Current Focus<br><br>Contributing to open-source projects<br>Building scalable web apps and APIs<br><br>🌱 I’m currently learning<br><br>Kubernetes & cloud-native development<br><br>📫 Reach out to me<br><br>Email: sadha4k@gmail.com<br>LinkedIn: https://www.linkedin.com/in/sadhasivamvm/<br>Portfolio: sadha.vercel.app<br><br>
+# ⚡ About Me:
+Hi, I'm Sadhasivam — a passionate developer, problem solver, and lifelong learner. I enjoy building tools, automating workflows, and exploring new technologies.<br><br>🚀 Tech Stack<br><br>Languages: JavaScript / TypeScript, Python, C++<br>Frontend: React, Next.js, Tailwind CSS, Bootstrap<br>Backend: Node.js, Express, REST API's<br>DevOps:  GitHub Actions, Vercel, Netlify<br>Databases: PostgreSQL, MongoDB, MySQL, SQLite<br><br>🔭 Current Focus<br><br>Contributing to open-source projects<br>Building scalable web apps and APIs<br><br>🌱 I’m currently learning<br><br>Kubernetes & cloud-native development<br><br>
+
+📫 Reach out to me<br><br>
+Email: sadha4k@gmail.com<br>LinkedIn: https://www.linkedin.com/in/sadhasivamvm/<br>Portfolio: sadha.vercel.app<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sadhasivamvm/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sadha4k@gmail.com) 
@@ -22,4 +25,3 @@ Hi, I'm Sadhasivam — a passionate developer, problem solver, and lifelong lear
 ---
 [![](https://visitcount.itsvg.in/api?id=SADHASIVAM-VM&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
