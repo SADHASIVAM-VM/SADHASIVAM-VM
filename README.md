@@ -15,10 +15,6 @@ Email: sadha4k@gmail.com<br>LinkedIn: https://www.linkedin.com/in/sadhasivamvm/<
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SADHASIVAM-VM&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SADHASIVAM-VM&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
