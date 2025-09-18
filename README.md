@@ -1,5 +1,5 @@
 # ⚡ About Me:
-Hi, I'm Sadhasivam — a passionate developer, problem solver, and lifelong learner. I enjoy building tools, automating workflows, and exploring new technologies.<br><br>🚀 Tech Stack<br><br>Languages: JavaScript / TypeScript, Python, C++<br>Frontend: React, Next.js, Tailwind CSS, Bootstrap<br>Backend: Node.js, Express, REST API's<br>DevOps:  GitHub Actions, Vercel, Netlify<br>Databases: PostgreSQL, MongoDB, MySQL, SQLite<br><br>🔭 Current Focus<br><br>Contributing to open-source projects<br>Building scalable web apps and APIs<br><br>🌱 I’m currently learning<br><br>Kubernetes & cloud-native development<br><br>
+Hi, I'm Sadhasivam — a passionate developer, problem solver, and lifelong learner. I enjoy building tools, automating workflows, and exploring new technologies.<br><br>🚀 Tech Stack<br><br>Languages: JavaScript / TypeScript, Python, C++<br>Frontend: React, Next.js, Tailwind CSS, Bootstrap<br>Backend: Node.js, Express, REST API's<br>DevOps:  GitHub Actions, Vercel, Netlify<br>Databases: PostgreSQL, MongoDB, MySQL, SQLite<br><br>🔭 Current Focus<br>Building scalable web apps and APIs<br><br>🌱 I’m currently learning<br><br>DSA & Azure <br><br>
 
 📫 Reach out to me<br><br>
 Email: sadha4k@gmail.com<br>LinkedIn: https://www.linkedin.com/in/sadhasivamvm/<br>Portfolio: sadha.vercel.app<br><br>
